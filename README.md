@@ -35,7 +35,7 @@ Here are some of my notable projects:
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/ishan-garg-45944823b)
+- [LinkedIn](https://www.linkedin.com/in/ishangarg1812)
 - [Twitter](https://twitter.com/copykreat)
 
 Feel free to reach out to me for any data science-related discussions, collaborations, or just to say hello! I'm always excited to connect with fellow data enthusiasts.
