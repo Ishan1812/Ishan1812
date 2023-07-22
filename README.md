@@ -42,7 +42,7 @@ Feel free to reach out to me for any data science-related discussions, collabora
 
 ## 🎯 My Data Science Philosophy
 
-> "Data never lies, but it can be silent. My mission is to give a voice to data through insightful analysis and compelling visualizations."
+> "Authentic Data never lies, but it can be silent. My mission is to give a voice to data through insightful analysis and compelling visualizations."
 
 Let's unlock the potential of data together! 🌟
 
